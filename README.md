@@ -7,9 +7,9 @@ Each module covers key C++ concepts through a progressive, structured, and hands
 ## 🔧 Usage
 
 ```bash
-git clone 
+git clone git@github.com:Anthonym0/CPP-Modules.git
 cd CPP_Modules
-cd Module_01
+cd Module01
 cd ex00
 make
 ```
